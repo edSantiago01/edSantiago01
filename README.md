@@ -6,14 +6,17 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 </br>
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Php](https://img.shields.io/badge/Php-9146FF?style=for-the-badge&logo=php&logoColor=white&labelColor=101011)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![Html](https://img.shields.io/badge/HTML-FA7343?style=for-the-badge&logo=html5&logoColor=white&labelColor=101011)]()
 </br>
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
 
 ## Find me at:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edgar_Santiago-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/edsantiago01)
+[![GooglePlay](https://img.shields.io/badge/Google_Play-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=101011)](https://play.google.com/store/apps/dev?id=6969660804547788680)
+</br>
+[![LinkedIn](https://img.shields.io/badge/-Edgar_Santiago-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/edsantiago01)
 </br>
 
 ## Calculadora de Impuestos:
