@@ -25,18 +25,36 @@
 Aplicación gratuita para **[Android](https://play.google.com/store/apps/details?id=com.mozama.impuestos)** que calcula los montos e impuestos al emitir facturas  (México) como IVA, retenciones IVA e ISR, impuestos Cedulares, incluye calculo inverso y convertidor de UMA y Salarios Mínimos a pesos.
 
 
-
-<!--
-**edSantiago01/edSantiago01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Some Apps:
+<table style="width:100%">
+  <tr>
+    <td>
+	    <a href="https://play.google.com/store/apps/details?id=com.mozama.trigonometria">
+  		  <img src="https://www.mozama.com.mx/img/logoTrigonometria.jpg">
+        </br>
+        Calculadora Trigonométrica
+	    </a>
+	</td>
+    <td>
+	    <a href="https://play.google.com/store/apps/details?id=com.mozama.circumference_equation">
+  		  <img src="https://www.mozama.com.mx/img/icono_circunferencia.jpg">
+        </br>
+        Circunferencia Ecuación
+	    </a>
+	</td>
+    <td>
+	    <a href="https://play.google.com/store/apps/details?id=mx.com.mozama.qreservaciones">
+  		  <img src="https://www.mozama.com.mx/img/logo_qreservaciones.png">
+        </br>
+        QReservaciones
+	    </a>
+	  </td>    
+    <td>
+	    <a href="https://play.google.com/store/apps/details?id=com.mozama.lineaRecta">
+  		  <img src="https://www.mozama.com.mx/img/linea_recta.jpg">
+        </br>
+        Línea Recta
+	    </a>
+	  </td>
+  </tr>
+</table>
