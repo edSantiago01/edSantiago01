@@ -13,12 +13,12 @@
 </br>
 
 ## Find me at:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edgar_Santiago-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/edsantiago01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edgar_Santiago-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/edsantiago01)]()
 </br>
 
 ## Calculadora de Impuestos:
 ![https://play.google.com/store/apps/details?id=com.mozama.impuestos](https://raw.githubusercontent.com/edSantiago01/edSantiago01/main/calculadoraImpuestos2.jpg)
-Aplicación gratuita para **[Android](https://play.google.com/store/apps/details?id=com.mozama.impuestos)** que calcula los montos e impuestos al emitir facturas,  (México) como IVA, retenciones IVA e ISR, impuestos Cedulares, incluye calculo inverso y convertidor de UMA y Salarios Mínimos a pesos.
+Aplicación gratuita para **[Android](https://play.google.com/store/apps/details?id=com.mozama.impuestos)** que calcula los montos e impuestos al emitir facturas  (México) como IVA, retenciones IVA e ISR, impuestos Cedulares, incluye calculo inverso y convertidor de UMA y Salarios Mínimos a pesos.
 
 
 
