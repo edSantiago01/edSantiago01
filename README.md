@@ -39,14 +39,14 @@ Aplicación gratuita para **[Android](https://play.google.com/store/apps/details
 	    <a href="https://play.google.com/store/apps/details?id=com.mozama.catalogossat">
   		  <img src="https://www.mozama.com.mx/img/logoCatalogosSAT.jpg">
         </br>
-        Circunferencia Ecuación
+        Catálogos claves SAT
 	    </a>
 	</td>
     <td>
-	    <a href="https://play.google.com/store/apps/details?id=mx.com.mozama.qreservaciones">
-  		  <img src="https://www.mozama.com.mx/img/logo_qreservaciones.png">
+	    <a href="https://play.google.com/store/apps/details?id=com.mozama.circumference_equation">
+  		  <img src="https://www.mozama.com.mx/img/icono_circunferencia.png">
         </br>
-        Catálogos claves SAT
+        Circunferencia Ecuación
 	    </a>
 	  </td>    
     <td>
