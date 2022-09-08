@@ -44,7 +44,7 @@ Aplicación gratuita para **[Android](https://play.google.com/store/apps/details
 	</td>
     <td>
 	    <a href="https://play.google.com/store/apps/details?id=com.mozama.circumference_equation">
-  		  <img src="https://www.mozama.com.mx/img/icono_circunferencia.png">
+  		  <img src="https://www.mozama.com.mx/img/icono_circunferencia.jpg">
         </br>
         Circunferencia Ecuación
 	    </a>
